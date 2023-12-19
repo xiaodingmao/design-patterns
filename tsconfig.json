@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "strictPropertyInitialization": false,
+        // 其他选项...
+    }
+}
